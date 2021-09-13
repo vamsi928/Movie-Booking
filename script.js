@@ -59,4 +59,5 @@ movie.addEventListener("change", (e) => {
   selectSeats();
 });
 
+//setting intial seats and count
 selectSeats();
